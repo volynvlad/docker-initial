@@ -11,5 +11,3 @@ services:
       - "5000:5000"
     volumes:
       - ./:/project_name
-
-    
