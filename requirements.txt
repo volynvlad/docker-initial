@@ -5,4 +5,4 @@ pandas==1.0.5
 scikit-learn==0.23.2
 lightgbm==2.3.0
 flask_wtf==0.14.2
-werkzeug==0.16.0
+werkzeug==2.2.3
